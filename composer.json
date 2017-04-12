@@ -1,5 +1,5 @@
 {
-    "name": "burt0n/PHP_CodeSniffer",
+    "name": "burt0n/php_codesniffer",
     "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
     "type": "library",
     "keywords": [
@@ -17,7 +17,7 @@
     "support": {
         "issues": "https://github.com/burt0n/PHP_CodeSniffer/issues",
         "wiki": "https://github.com/burt0n/PHP_CodeSniffer/wiki",
-        "source": "https://github.com/squizlabs/PHP_CodeSniffer"
+        "source": "https://github.com/burt0n/php_codesniffer"
     },
     "extra": {
         "branch-alias": {
